@@ -1,5 +1,5 @@
 # markdown 
-En basit tanımı ile, web yazarları için text-to-HTML (metinden HTML’e) dönüştürme aracıdır. 
+  En basit tanımı ile, web yazarları için text-to-HTML (metinden HTML’e) dönüştürme aracıdır. 
 Markdown tasarımının temel hedefi geliştiricileri tarafından okunulabilirlik (readability) olarak belirtilmektedir. 
 Bu amaçla e-posta yazımı temelinde ağırlık göstermektedir.
 Daha detaylı bir tanım olarak, düz metin biçimlendirme (markup language) sözdizimine (syntax) sahip hafif bir düz metin biçimlendirme dili (plain text formatting syntax) olarak ifade edilebilir. Aynı isimli araç sadece HTML dilini desteklese de günümüzde pek çok formatta çıktı üretebilmek için de kullanılmaktadır.
