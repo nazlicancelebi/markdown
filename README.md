@@ -1,4 +1,4 @@
-# markdown 
+# M A R K D O W N  
   En basit tanımı ile, web yazarları için text-to-HTML (metinden HTML’e) dönüştürme aracıdır. 
 Markdown tasarımının temel hedefi geliştiricileri tarafından okunulabilirlik (readability) olarak belirtilmektedir. 
 Bu amaçla e-posta yazımı temelinde ağırlık göstermektedir.
